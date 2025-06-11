@@ -37,7 +37,7 @@ docker-practico/
 │
 ├── index.html
 ├── Dockerfile
-└── README.md```¿¿¿
+└── README.md
 ```
 
 ## Instrucciones
